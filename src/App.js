@@ -5,7 +5,7 @@ function App() {
         <a href="/">React Shopping Cart</a>
       </header>
       <main>
-        List Product (changed) fff
+        Product List
       </main>
       <footer>
         All right is reserved.
