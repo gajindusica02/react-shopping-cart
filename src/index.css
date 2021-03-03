@@ -4,7 +4,7 @@ html{
 }
 
 body, #root{
-  height: 10vh;
+  height: 100vh;
   margin: 0;
 }
 body, input, select, textarea{
